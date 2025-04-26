@@ -1,4 +1,4 @@
-# Edge-Linking-using-Hough-Transformm
+![Screenshot 2025-04-26 103633](https://github.com/user-attachments/assets/aa32e4c6-10ea-4ee2-b0cc-76ab45d69c52)# Edge-Linking-using-Hough-Transformm
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
@@ -83,17 +83,18 @@ plt.show()
 
 ### Input image and grayscale image
 
-![image](https://github.com/user-attachments/assets/485742ca-3f52-42df-b09d-ea31bedbb2d9)   ![image](https://github.com/user-attachments/assets/a0d6e0a6-0197-4403-ac7d-28b3bd025dcd)
+![Screenshot 2025-04-26 103633](https://github.com/user-attachments/assets/a3b9ebc8-8b41-4d46-83a4-a35101549214)
 
+![Screenshot 2025-04-26 103642](https://github.com/user-attachments/assets/3dc7c0a6-3189-4aca-8beb-f39b5d3f9129)
 
 ### Canny Edge detector output
 
-![image](https://github.com/user-attachments/assets/6af5b8d7-39f5-425a-b2bc-043dd625351a)
+![Screenshot 2025-04-26 103658](https://github.com/user-attachments/assets/d1ce2f8a-27e3-4f46-b96c-904da8d90e3d)
 
 
 ### Display the result of Hough transform
 
-![image](https://github.com/user-attachments/assets/52699bb4-c976-4265-b2f8-0b8ebbc6df10)
+![Screenshot 2025-04-26 103716](https://github.com/user-attachments/assets/b0db56b4-066d-4670-b9bb-9ae20fe96f9a)
 
 
 ## Result:
